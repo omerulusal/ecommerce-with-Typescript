@@ -1,0 +1,8 @@
+#fcfcfc
+#ffa724
+#f19038
+#e37a4c
+#d56460
+
+klasor icerisinde page.tsx yazarsam ve urlde klasor adını girersem direkt 
+olarak page.tsx e gidicektir
