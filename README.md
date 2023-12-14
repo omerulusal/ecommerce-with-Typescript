@@ -20,17 +20,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## PREVIEW
+<img width="947" alt="5" src="https://github.com/omerulusal/ecommerce-with-Typescript/assets/96357374/1632212b-fb9a-449f-88aa-bc36223f77a4">
+<img width="947" alt="4" src="https://github.com/omerulusal/ecommerce-with-Typescript/assets/96357374/5525a311-960a-4425-b289-46744032f8d5">
+<img width="947" alt="3" src="https://github.com/omerulusal/ecommerce-with-Typescript/assets/96357374/ac1f29ab-ccfc-4dc9-9b8a-68cfa12ea228">
+<img width="952" alt="2" src="https://github.com/omerulusal/ecommerce-with-Typescript/assets/96357374/09e35f30-c831-46a5-9642-dd6232ec8e42">
+<img width="947" alt="1" src="https://github.com/omerulusal/ecommerce-with-Typescript/assets/96357374/5386bee2-5e49-4c6e-91af-bfe862414803">
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
