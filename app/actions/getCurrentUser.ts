@@ -7,7 +7,7 @@ export async function getSession() {
 
 export async function getCurrentUser() {
     try {
-        const session = await getSession();
+        const session = await getSession();//oturum acılıp acılmadıgının kontrolu
         if (!session?.user?.email) {
             return null
         }
@@ -16,6 +16,7 @@ export async function getCurrentUser() {
             where: {
                 email: session.user.email as string
             }
+            // SQL Sorgusu
         })
         if (!currentUser) {
             return null

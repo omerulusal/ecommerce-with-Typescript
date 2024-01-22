@@ -13,3 +13,4 @@ const CartProvider = ({ children }: CartProviderProps) => {
 }
 
 export default CartProvider
+// layouttan children alır. (Context api i kullanır)

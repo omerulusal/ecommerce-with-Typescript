@@ -26,5 +26,4 @@ const Products: GetStaticProps<HomeProps> = async () => {
     )
 }
 
-export default Products
-
+export default Products;
